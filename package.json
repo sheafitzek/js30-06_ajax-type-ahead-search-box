@@ -1,0 +1,20 @@
+{
+  "name": "js30-06_ajax-type-ahead-search-box",
+  "version": "1.0.0",
+  "description": "A Type Ahead (Incremental) Search Box using Fetch",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheafitzek/js30-06_ajax-type-ahead-search-box.git"
+  },
+  "author": "Shea Fitzek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheafitzek/js30-06_ajax-type-ahead-search-box/issues"
+  },
+  "homepage": "https://github.com/sheafitzek/js30-06_ajax-type-ahead-search-box"
+}

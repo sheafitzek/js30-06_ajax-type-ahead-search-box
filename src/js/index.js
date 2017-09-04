@@ -16,7 +16,6 @@ const app = {
 
 	searchListener() {
 		const search = document.querySelector(`.search`);
-		// const suggestions = document.querySelector(`.suggestions`);
 
 		search.addEventListener(`change`, app.displayMatches);
 		search.addEventListener(`keyup`, app.displayMatches);
